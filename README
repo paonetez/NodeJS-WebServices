@@ -1,0 +1,5 @@
+1. install express using npm command 
+    e.g: npm install express
+2. run server.js file using node command
+    e.g: node server.js
+
